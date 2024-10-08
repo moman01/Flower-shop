@@ -1,8 +1,9 @@
+
 * {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-  font-family: "Lato", sans-serif;
+  font-family: "Lato",  sans-serif;
 }
 
 header {
@@ -10,17 +11,24 @@ header {
 }
 
 .container {
-  width: 80%;
+  width: 90%;
   max-width: 1440px;
+  /* height: 650px; */
   margin: 0 auto;
   display: flex;
   justify-content: space-between;
   align-items: center;
 }
+.content{
+  width: 50%;
+}
+.banner-img{
+  width: 50%;
+}
 
 .header-image {
- width: auto;
-    height: auto;
+ width: 85%;
+ height:auto;
  vertical-align: middle;
  margin-top: 30px;
 }
