@@ -65,7 +65,7 @@ cursor: pointer;
 .btn:hover{
   background-color: crimson;
 }
-
+/* ----------Featured Section-------  */
 .featured-content{
   padding: 8rem 0 2rem ;
   width: 32rem;
@@ -137,3 +137,53 @@ text-decoration-line: underline;
 cursor: pointer;
 }
 
+/*------- -Footer Section---------  */
+
+footer{
+  margin-top: 100px;
+  background: #111010;
+  text-align: center;
+  height: 350px;
+}
+
+.fot-head{
+  padding: 80px 0px  10px;
+}
+.colored{
+  color: #E55473;
+font-family: Lato;
+font-size: 48px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+
+.whitee{
+color: #FFF;
+font-family: Lato;
+font-size: 48px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+
+.foot-pera{
+  color: rgba(255, 255, 255, 0.90);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; /* 166.667% */
+}
+
+.copyright{
+  color: rgba(255, 255, 255, 0.40);
+text-align: center;
+font-family: Lato;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+padding-top: 30px;
+}
