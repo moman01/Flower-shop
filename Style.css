@@ -67,7 +67,7 @@ cursor: pointer;
 }
 
 .featured-content{
-  padding-top: 10rem ;
+  padding: 8rem 0 2rem ;
   width: 32rem;
   margin: 0 auto;
 }
@@ -93,7 +93,7 @@ line-height: 30px;
 }
 
 .featured-images{
-  padding-top: 2rem;
+  padding-top: 3opx;
   display: flex;
  justify-content: space-between;
  align-items: end;
@@ -118,7 +118,7 @@ background: rgba(71, 125, 17, 0.15);
   height: 450px;
   display: flex;
   align-items: end;
-  padding: 100px 20px 0;
+  padding: 30px 15px 0;
 }
 .flower img{
   width: 100%;
